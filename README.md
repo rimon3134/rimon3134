@@ -10,6 +10,8 @@ From first-party scripts to sneaky trackers, I reclaim control of the web — **
 
 ---
 
+<details>
+  
 ## 🛠️ My Work
 
 I maintain **RK’s Custom Filter Lists** — curated, hybrid, and layered for real-world web usability:
@@ -75,3 +77,4 @@ All curated lists, hybrid rules, and updates are maintained there — the single
 
 > Crafted with **discipline, intention, and a pinch of midnight chaos ✨**  
 > Warning: May trigger sudden satisfaction and **improved web sanity.** 😂
+</details>
