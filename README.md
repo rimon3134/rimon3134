@@ -5,12 +5,17 @@
 *Zero Noise. Zero Trackers. Zero Nonsense.*  
 …because **the web is already loud enough.** 😂
 
+---
+
+<details>
+<summary>Read more...</summary>
+
+---
+
 Hey! I’m **Rimon Hossain** — I try to build **precision filter lists** that make your browser behave, your system chill, and your sanity intact.  
 From first-party scripts to sneaky trackers, I reclaim control of the web — **intentionally, expertly, and with a hint of sarcasm.** 😎
 
 ---
-
-<details>
   
 ## 🛠️ My Work
 
