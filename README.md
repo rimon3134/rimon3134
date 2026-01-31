@@ -1,7 +1,6 @@
-# Rimon Hossain
+# 🛡️ Rimon Hossain - Internet Enthusiast
 
-*Internet Enthusiast*  
-
+---
 
 *Zero Noise. Zero Trackers. Zero Nonsense.*  
 …because **the web is already loud enough.** 😂
