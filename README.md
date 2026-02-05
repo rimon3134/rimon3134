@@ -21,9 +21,9 @@ From first-party scripts to sneaky trackers, I reclaim control of the web — **
 
 I maintain **RK’s Custom Filter Lists** — curated, hybrid, and layered for real-world web usability:
 
-- 🔹 **ZeroHosts / ZeroDNS** — domain-level protection against ads, trackers, malware, and spam. *No drama, no “oops-I-broke-the-site.”*
+- 🔹 **ZeroHosts** — domain-level protection against ads, trackers, malware, and spam. *No drama, no “oops-I-broke-the-site.”*
 
-- 🔹 **ZeroNoise / AdGhost / ZeroAds** — hybrid rules that remove popups, overlays, forced dialogs, and other annoyances *before they even think of bothering you.*
+- 🔹 **ZeroNoise / AdGhost / ZeroAds** — hybrid rules that remove popups, overlays, forced dialogs, and other annoyances *before they even think of bothering you when _**ZeroTrace**_ ensures enhanced privacy.
 
 - 🔹 Focused on **speed, stability, low false positives, and mobile compatibility**. Basically, I break the noise, not your sites.
 
